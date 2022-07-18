@@ -3,5 +3,6 @@
     public class Class1
     {
         readonly int a = 5;
+        readonly int b = 3;
     }
 }
